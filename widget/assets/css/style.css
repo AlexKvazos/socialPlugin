@@ -810,3 +810,6 @@ textarea {
     font-size: 17px;
     vertical-align: 3px;
 }
+.responsive-zoom {
+    zoom: 0.9;
+}
